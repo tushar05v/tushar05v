@@ -1,4 +1,4 @@
-![logo](https://github.com/tushar05v/tushar05v/blob/main/Baner.png)
+![logo](https://github.com/tushar05v/tushar05v/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Kumar</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
